@@ -1,9 +1,13 @@
 body {
-    background-color: #EAEAEA;
+    background-color: #FAFAFA;
 }
 hr {
     width: 5%;
     border-style: dotted none none;
-    border-color: #FF2E63;
+    border-color: #FF7E67;
     border-width: 5px;
+}
+
+h1, h3 {
+    color: #07689F;
 }
